@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<ruleset name="FlarumAntiSpam">
+    <rule ref="PSR12"/>
+    <file>src</file>
+    <file>tests</file>
+    <file>extend.php</file>
+</ruleset>
