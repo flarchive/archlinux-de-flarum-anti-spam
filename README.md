@@ -4,7 +4,16 @@ This repository is a permanent, read-only archive of released versions of `archl
 
 > **Not affiliated with the Flarum Foundation or the Flarum project.**
 
-- Archived versions are stored as tags: `archive/vX.Y.Z`
+## Quick Download
+
+- **Latest Archived Version:** `1.5.0`
+- **Flarum Compatibility:** `^1.7`
+- **Direct Download (.zip):** [Download 1.5.0 (.zip)](https://github.com/flarchive/archlinux-de-flarum-anti-spam/archive/refs/tags/archive/v1.5.0.zip)
+- **All Releases & Tags:** [View All Releases & Tags](https://github.com/flarchive/archlinux-de-flarum-anti-spam/tags)
+
+## Archive Catalog
+
+- **Catalog Entry (JSON):** [View manifest](https://github.com/flarchive/archive-index/blob/main/packages/archlinux-de-flarum-anti-spam.json)
 - Upstream repository: https://github.com/archlinux-de/flarum-anti-spam.git
 - Issues, pull requests, discussions, and wiki are disabled on this repository.
 
