@@ -1,0 +1,44 @@
+{
+    "name": "archlinux-de/flarum-anti-spam",
+    "description": "Spam protection for forum.archlinux.de",
+    "license": "GPL-3.0-or-later",
+    "type": "flarum-extension",
+    "require": {
+        "php": "^8.3",
+        "flarum/core": "^2.0",
+        "maxmind-db/reader": "^1.11.1",
+        "symfony/http-foundation": "^7.0",
+        "symfony/string": "^7.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^11.5",
+        "squizlabs/php_codesniffer": "^4.0",
+        "phpstan/extension-installer": "^1.4",
+        "phpstan/phpstan": "^2.0",
+        "phpstan/phpstan-deprecation-rules": "^2.0",
+        "phpstan/phpstan-phpunit": "^2.0",
+        "symfony/http-client": "^7.0",
+        "symfony/filesystem": "^7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "ArchLinux\\AntiSpam\\": "src/",
+            "ArchLinux\\AntiSpam\\Test\\": "tests/"
+        }
+    },
+    "extra": {
+        "flarum-extension": {
+            "title": "Anti-Spam",
+            "icon": {
+                "name": "fas fa-shield-halved",
+                "backgroundColor": "#08c",
+                "color": "#fff"
+            }
+        }
+    },
+    "config": {
+        "allow-plugins": {
+            "phpstan/extension-installer": true
+        }
+    }
+}
