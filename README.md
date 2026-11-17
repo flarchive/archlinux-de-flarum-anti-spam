@@ -2,13 +2,24 @@
 
 > **Read-only archive of released versions of archlinux-de/flarum-anti-spam.** Not for installation: use [Packagist](https://packagist.org/packages/archlinux-de/flarum-anti-spam) or the [upstream repository](https://github.com/archlinux-de/flarum-anti-spam).
 
-**0** versions archived · Latest: [`2.0.0`](https://github.com/flarchive/archlinux-de-flarum-anti-spam/tree/archive/v2.0.0) · License: `GPL-3.0-or-later` · Flarum: `^2.0`
+**14** versions archived · Latest: [`2.0.0`](https://github.com/flarchive/archlinux-de-flarum-anti-spam/tree/archive/v2.0.0) · License: `GPL-3.0-or-later` · Flarum: `^2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0.0` | 2021-04-26 | `>=0.1.0-beta.16 <=0.1.0` | [Browse](https://github.com/flarchive/archlinux-de-flarum-anti-spam/tree/archive/v1.0.0) |
+| `1.0.1` | 2021-04-26 | `>=0.1.0-beta.16 <=0.1.0` | [Browse](https://github.com/flarchive/archlinux-de-flarum-anti-spam/tree/archive/v1.0.1) |
+| `1.1.0` | 2021-05-01 | `>=0.1.0-beta.16 <=0.1.0` | [Browse](https://github.com/flarchive/archlinux-de-flarum-anti-spam/tree/archive/v1.1.0) |
+| `1.1.1` | 2021-05-28 | `^1.0.0` | [Browse](https://github.com/flarchive/archlinux-de-flarum-anti-spam/tree/archive/v1.1.1) |
+| `1.1.2` | 2021-08-29 | `^1.0.0` | [Browse](https://github.com/flarchive/archlinux-de-flarum-anti-spam/tree/archive/v1.1.2) |
+| `1.1.3` | 2021-09-08 | `^1.0.0` | [Browse](https://github.com/flarchive/archlinux-de-flarum-anti-spam/tree/archive/v1.1.3) |
+| `1.2.0` | 2022-08-28 | `^1.0.0` | [Browse](https://github.com/flarchive/archlinux-de-flarum-anti-spam/tree/archive/v1.2.0) |
+| `1.3.0` | 2024-01-06 | `^1.7` | [Browse](https://github.com/flarchive/archlinux-de-flarum-anti-spam/tree/archive/v1.3.0) |
+| `1.4.0` | 2024-03-09 | `^1.7` | [Browse](https://github.com/flarchive/archlinux-de-flarum-anti-spam/tree/archive/v1.4.0) |
+| `1.4.1` | 2024-03-10 | `^1.7` | [Browse](https://github.com/flarchive/archlinux-de-flarum-anti-spam/tree/archive/v1.4.1) |
+
+[View all 14 versions](https://github.com/flarchive/archlinux-de-flarum-anti-spam/tags)
 
 Catalog entry: [packages/archlinux-de-flarum-anti-spam.json](https://github.com/flarchive/archive-index/blob/main/packages/archlinux-de-flarum-anti-spam.json)
 
